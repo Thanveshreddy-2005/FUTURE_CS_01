@@ -58,5 +58,3 @@ The assessment was conducted using **safe, ethical, and non-intrusive techniques
 - Perform regular security assessments  
 
 ---
-
-## 📁 Repository Structure
